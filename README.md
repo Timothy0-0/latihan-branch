@@ -1,5 +1,7 @@
 # latihan-branch
+
 * berlatih menggunakan fitur branch
 * Melakukan merge
-* Meakukan Squash and Merge 
+* Melakukan Squash and Merge
+-- Sekarang sudah progress di 70%
   
