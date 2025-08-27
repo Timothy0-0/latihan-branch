@@ -1,2 +1,4 @@
 # latihan-branch
-berlatih menggunakan fitur branch
+* berlatih menggunakan fitur branch
+* Melakukan merge
+  
